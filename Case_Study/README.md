@@ -1,4 +1,10 @@
 ## INTRODUCTION:
+A microwave oven, is a kitchen appliance that can come in many different sizes and styles employing microwave radiation primarily to cook or heat food. 
+              This is accomplished by using microwaves, almost always emitted from a magnetron, to excite water (primarily) and other polarized molecules within the 
+              food to be heated. This excitation is fairly uniform, leading to food being heated everywhere all at once.
+              
+              
+## Block Diagram:
 
 ![image](https://user-images.githubusercontent.com/98812442/154825769-246c5bfc-56b7-491d-88a1-03a71a0e478f.png)
 
