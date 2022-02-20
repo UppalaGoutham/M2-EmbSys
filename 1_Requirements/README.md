@@ -31,7 +31,30 @@
 ![image](https://user-images.githubusercontent.com/98812442/154832093-b6955ccc-75c5-422b-8c4c-fa0d8e5a51fa.png)
 
 # Components:
+
+## Microcontroller ATmega128:
+
+              •ATmega128 is an AVR, 8-bit low power microcontroller that contains 64-pin interface and is based on RISC architecture.
+              •This AVR controller differs from PIC controllers in accordance with the instruction set where AVR. requires one clock 
+               cycle to execute a number of instructions while PIC controllers need a number.
             
+## Ultrasonic Sensor HC-SR04:
+             •The ultrasonic sensor works on the principle of SONAR and RADAR system which is used to determine the distance 
+              to an object.
+             •An ultrasonic sensor generates the highfrequency sound (ultrasound) waves. When this ultrasound hits the object,
+              it reflects as echo which is sensed by the receiver.
+              
+## Servomotor :
+             • A servomotor is a rotational actuator that allows for the precise control of the angular position, velocity
+               and acceleration.
+             • It receives and processes PWM signal. Servomotor can rotate approximately 180 degrees (90 degree in each direction).
+             
+## LCD Display :
+             • The term LCD stands for liquid crystal display. It is one kind of electronic display module used in an extensive 
+              range of applications like various circuits and devices like mobile phones, calculators, computers, TV sets, etc.
+             •These displays are mainly preferred for multi-segment light-emitting diodes and seven segment display.
+             
+## 
 
 
                    
