@@ -54,7 +54,8 @@
               range of applications like various circuits and devices like mobile phones, calculators, computers, TV sets, etc.
              •These displays are mainly preferred for multi-segment light-emitting diodes and seven segment display.
              
-## 
+## Buzzer:
+             •Buzzer is used for alerting the user at the completion of the cooking process.
 
 
                    
