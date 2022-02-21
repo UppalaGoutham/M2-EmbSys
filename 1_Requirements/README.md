@@ -1,4 +1,4 @@
-# Introduction:
+# Introduction Ultrasonic Rader:
            • Radar is a long-range object detection system that uses radio waves to establish certain parameters of 
              an object like its range, speed and position.
            • The project is based on Sonar technology as I will be using an Ultrasonic Sensor to determine the presence 
