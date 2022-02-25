@@ -11,16 +11,20 @@
 
 
 
-| ID | Description | HR ID | Status |
-|--|--|--|--|
-| LR01 |Main menu should consist 4 options: 1.Deposit, 2.BalanceEnquiry, 3.CashWithdraw  | HR01| Implemented |
-| LR02 | Reading user input to select particular option | HR01| Implemented |
- LR03 | Output screen will display the overall balance  | HR03| Implemented |
-| LR04 | Read user input to withdraw entered amount exactly | HR04| Implemented |
-| LR05 |Should display final updated balance after credit or debit | HR02| Implemented |
-| LR06 |A clean graphical user interface with all required buttons for ease of use  | HR05| Future |
+| ID | Description | HR ID |
+|--|--|--|
+| LR01 |We can find the exact location of an Target | HR01|
+| LR02 |It can find distance of an object  | HR02|
+|LR03 | It can find speed of an object  | HR02|
+| LR04 |It can display distance of an object | HR03|
 
 
 
- • It can able to detect Moving object.
+                • It can able to detect Moving object.
                 • Moving object signal will displayed on a display unit
+                
+                
+                •We can find the exact location of an Target.
+                •It can find distance of an object.
+                •It can find speed of an object.
+                •It can display distance of an object.
