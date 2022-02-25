@@ -36,7 +36,7 @@
 ![image](https://user-images.githubusercontent.com/98812442/154832013-aeee7862-5d22-45c9-bff3-625ba1096e8d.png)
 
 ## System block diagram
-![image](https://user-images.githubusercontent.com/98812442/154832093-b6955ccc-75c5-422b-8c4c-fa0d8e5a51fa.png)
+![System Display](https://user-images.githubusercontent.com/98812442/155674989-7dd5331a-4522-4f36-adaa-18a2a782a3f1.png)
 
 ## Circuit Design
 ![image](https://user-images.githubusercontent.com/98812442/155663585-024e6fdc-d504-4994-bcc0-a4ef8a591c54.png)
