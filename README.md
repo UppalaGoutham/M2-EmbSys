@@ -28,3 +28,6 @@
                 •It can find distance of an object.
                 •It can find speed of an object.
                 •It can display distance of an object.
+                
+![image](https://user-images.githubusercontent.com/98812442/155663585-024e6fdc-d504-4994-bcc0-a4ef8a591c54.png)
+
