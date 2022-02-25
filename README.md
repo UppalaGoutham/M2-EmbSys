@@ -2,13 +2,13 @@
 |:--:|:--:|
 |\image html ON.png||
 
-| ID | Description | Status |
-|--|--|--|
-| HR01 |Main Menu  | Implemented |
-| HR02 | Deposit | Implemented |
-| HR03 | Balance enguiry |  Implemented |
-| HR04 | Cash withdraw |  Implemented |
-| HR05 | Graphical User Interface | Future |
+| ID | Description |
+|--|--|
+| HR01 | It can able to detect Moving object |
+| HR02 | Moving object signal will displayed on a display unit |
+| HR03 | It can find the distance  |
+
+
 
 | ID | Description | HR ID | Status |
 |--|--|--|--|
@@ -18,3 +18,8 @@
 | LR04 | Read user input to withdraw entered amount exactly | HR04| Implemented |
 | LR05 |Should display final updated balance after credit or debit | HR02| Implemented |
 | LR06 |A clean graphical user interface with all required buttons for ease of use  | HR05| Future |
+
+
+
+ • It can able to detect Moving object.
+                • Moving object signal will displayed on a display unit
