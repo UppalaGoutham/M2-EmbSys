@@ -1,11 +1,13 @@
 # Introduction To Ultrasonic Distance Detect Rader:
-           • Radar is a long-range object detection system that uses radio waves to establish certain parameters of 
-             an object like its range, speed and position.
-           • The project is based on Sonar technology as I will be using an Ultrasonic Sensor to determine the presence 
-             of any object in a particular range.
-           • Rader is an object detection system. It uses Microwaves to determine the range, altitude, direction, or speed of
-             objects. The radar can transmit radio waves or microwaves which bounce off any object in their path. So, we can 
-             easily determine any object in the radar range.
+             Radar is a long-range object detection system that uses radio waves to establish certain parameters of an object 
+             like its range, speed and position.The project is based on Sonar technology as I will be using an Ultrasonic Sensor
+             to determine the presence of any object in a particular range.Rader is an object detection system. It uses Microwaves
+             to determine the range, altitude, direction, or speed of objects. 
+             
+                     •The radar can transmit radio waves or microwaves which bounce off any object in their path. So, we can 
+                      easily determine any object in the radar range.
+                     •Ultrasonic Module HC-SR04 works on the principle of SONAR and RADAR system.
+                     •HC-SR-04 module has an ultrasonic transmitter, receiver, and control circuit on a single board
              
 # Requirements:
 
@@ -54,11 +56,7 @@
               to an object.
              •An ultrasonic sensor generates the highfrequency sound (ultrasound) waves. When this ultrasound hits the object,
               it reflects as echo which is sensed by the receiver.
-              
-## Servomotor :
-             • A servomotor is a rotational actuator that allows for the precise control of the angular position, velocity
-               and acceleration.
-             • It receives and processes PWM signal. Servomotor can rotate approximately 180 degrees (90 degree in each direction).
+             •HC-SR-04 module has an ultrasonic transmitter, receiver, and control circuit on a single board.
              
 ## LCD Display :
              • The term LCD stands for liquid crystal display. It is one kind of electronic display module used in an extensive 
