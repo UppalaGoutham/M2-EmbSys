@@ -18,10 +18,13 @@
                     
 ## Low Level Requirements:
 
-                    •We can find the location of an Target.
-                    •It can display position (moving or stationary) of an object.
-                    •It can display distance of an object.
-                    •It can display speed of an object.
+| ID | Description | HR ID |
+|--|--|--|
+| LR01 |We can find the exact location of an Target | HR01|
+| LR02 |It can find distance of an object  | HR02|
+|LR03 | It can find speed of an object  | HR02|
+| LR04 |It can display distance of an object | HR03|
+
                     
                     
 # Block Diagram:
