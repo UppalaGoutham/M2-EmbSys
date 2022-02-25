@@ -4,9 +4,10 @@
 
 | ID | Description |
 |--|--|
-| HR01 | It can able to detect Moving object |
-| HR02 | Moving object signal will displayed on a display unit |
-| HR03 | It can find the distance  |
+| HR01 | It can send echo to find object  |
+| HR02 | It can able to detect Moving object |
+| HR03 | Moving object signal will displayed on a display unit |
+
 
 
 
