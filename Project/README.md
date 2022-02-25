@@ -35,6 +35,9 @@
 ## System block diagram
 ![image](https://user-images.githubusercontent.com/98812442/154832093-b6955ccc-75c5-422b-8c4c-fa0d8e5a51fa.png)
 
+## Circuit Design
+![image](https://user-images.githubusercontent.com/98812442/155663585-024e6fdc-d504-4994-bcc0-a4ef8a591c54.png)
+
 # Components:
 
 ## Microcontroller ATmega128:
