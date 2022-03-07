@@ -26,3 +26,17 @@
 | LR02 |It can find distance of an object  | HR02|
 |LR03 | It can find speed of an object  | HR02|
 | LR04 |It can display distance of an object | HR03|
+
+# Advantages:
+            •The ultrasonic sensor has high sensitivity, high frequency and high penetrating power therefore it can easily
+              detect the external or deep objects.
+            •The use of ultrasonic sensor makes this system more accurate and precise than other methods.
+            •This system is easy to use, not dangerous during operation for nearby objects, person, equipment or material.
+            •Radar systems have a number of defense as well as civil applications.
+            
+# Applications:
+           •It is used in machines like Automotive parking sensor obstacle warning systems,industrial distance
+            measurements, terrain monitoring robots.
+           •RADAR speed meters are used by the traffic police for enforcing speed limit.
+           •Marine RADARs used to locate the landmarks and other ships.
+           •Air traffic control uses radars to track aircraft on the ground, in the air and to guide planes for smooth landings.
