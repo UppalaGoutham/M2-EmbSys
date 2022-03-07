@@ -45,9 +45,9 @@
 
 # Components:
 
-## Microcontroller ATmega128:
+## Microcontroller ATmega32:
 
-              •ATmega128 is an AVR, 8-bit low power microcontroller that contains 64-pin interface and is based on RISC architecture.
+              •ATmega32 is an AVR, 8-bit low power microcontroller that contains 64-pin interface and is based on RISC architecture.
               •This AVR controller differs from PIC controllers in accordance with the instruction set where AVR. requires one clock 
                cycle to execute a number of instructions while PIC controllers need a number.
             
