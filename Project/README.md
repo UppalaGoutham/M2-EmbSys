@@ -39,7 +39,8 @@
 ![System Display](https://user-images.githubusercontent.com/98812442/155674989-7dd5331a-4522-4f36-adaa-18a2a782a3f1.png)
 
 ## Circuit Design
-![image](https://user-images.githubusercontent.com/98812442/155663585-024e6fdc-d504-4994-bcc0-a4ef8a591c54.png)
+
+![ultrasonic 1](https://user-images.githubusercontent.com/98812442/157185468-0b0cf173-5c45-44b8-9b16-41682d590c82.png)
 
 
 
