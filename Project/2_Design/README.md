@@ -9,6 +9,7 @@
 
 ## Circuit Design
 
+![ultrasonic 1](https://user-images.githubusercontent.com/98812442/157185597-50ed732c-932d-457c-b3d1-4974532e7d42.png)
 
-![Distance](https://user-images.githubusercontent.com/98812442/157023962-5926678d-1aa2-4b47-8d45-d6e40087aa8c.png)
+
 
