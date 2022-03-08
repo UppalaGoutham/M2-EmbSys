@@ -8,7 +8,7 @@
 ![System Display](https://user-images.githubusercontent.com/98812442/155674989-7dd5331a-4522-4f36-adaa-18a2a782a3f1.png)
 
 ## Circuit Design
-![image](https://user-images.githubusercontent.com/98812442/155663585-024e6fdc-d504-4994-bcc0-a4ef8a591c54.png)
+
 
 ![Distance](https://user-images.githubusercontent.com/98812442/157023962-5926678d-1aa2-4b47-8d45-d6e40087aa8c.png)
 
